@@ -1,2 +1,0 @@
-# apparking
-Aplicativo para Estacionamentos
